@@ -1,0 +1,15 @@
+C:\CoursesProjects\ConsoleApp1\PrimitiveDateTypesDemo\PrimitiveDateTypesDemo\bin\Debug\net6.0\PrimitiveDateTypesDemo.exe
+C:\CoursesProjects\ConsoleApp1\PrimitiveDateTypesDemo\PrimitiveDateTypesDemo\bin\Debug\net6.0\PrimitiveDateTypesDemo.deps.json
+C:\CoursesProjects\ConsoleApp1\PrimitiveDateTypesDemo\PrimitiveDateTypesDemo\bin\Debug\net6.0\PrimitiveDateTypesDemo.runtimeconfig.json
+C:\CoursesProjects\ConsoleApp1\PrimitiveDateTypesDemo\PrimitiveDateTypesDemo\bin\Debug\net6.0\PrimitiveDateTypesDemo.dll
+C:\CoursesProjects\ConsoleApp1\PrimitiveDateTypesDemo\PrimitiveDateTypesDemo\bin\Debug\net6.0\PrimitiveDateTypesDemo.pdb
+C:\CoursesProjects\ConsoleApp1\PrimitiveDateTypesDemo\PrimitiveDateTypesDemo\obj\Debug\net6.0\PrimitiveDateTypesDemo.csproj.AssemblyReference.cache
+C:\CoursesProjects\ConsoleApp1\PrimitiveDateTypesDemo\PrimitiveDateTypesDemo\obj\Debug\net6.0\PrimitiveDateTypesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CoursesProjects\ConsoleApp1\PrimitiveDateTypesDemo\PrimitiveDateTypesDemo\obj\Debug\net6.0\PrimitiveDateTypesDemo.AssemblyInfoInputs.cache
+C:\CoursesProjects\ConsoleApp1\PrimitiveDateTypesDemo\PrimitiveDateTypesDemo\obj\Debug\net6.0\PrimitiveDateTypesDemo.AssemblyInfo.cs
+C:\CoursesProjects\ConsoleApp1\PrimitiveDateTypesDemo\PrimitiveDateTypesDemo\obj\Debug\net6.0\PrimitiveDateTypesDemo.csproj.CoreCompileInputs.cache
+C:\CoursesProjects\ConsoleApp1\PrimitiveDateTypesDemo\PrimitiveDateTypesDemo\obj\Debug\net6.0\PrimitiveDateTypesDemo.dll
+C:\CoursesProjects\ConsoleApp1\PrimitiveDateTypesDemo\PrimitiveDateTypesDemo\obj\Debug\net6.0\refint\PrimitiveDateTypesDemo.dll
+C:\CoursesProjects\ConsoleApp1\PrimitiveDateTypesDemo\PrimitiveDateTypesDemo\obj\Debug\net6.0\PrimitiveDateTypesDemo.pdb
+C:\CoursesProjects\ConsoleApp1\PrimitiveDateTypesDemo\PrimitiveDateTypesDemo\obj\Debug\net6.0\PrimitiveDateTypesDemo.genruntimeconfig.cache
+C:\CoursesProjects\ConsoleApp1\PrimitiveDateTypesDemo\PrimitiveDateTypesDemo\obj\Debug\net6.0\ref\PrimitiveDateTypesDemo.dll

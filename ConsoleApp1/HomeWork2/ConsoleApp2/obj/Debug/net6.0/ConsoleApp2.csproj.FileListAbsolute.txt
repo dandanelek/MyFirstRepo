@@ -1,0 +1,15 @@
+C:\CoursesProjects\ConsoleApp1\HomeWork2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+C:\CoursesProjects\ConsoleApp1\HomeWork2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+C:\CoursesProjects\ConsoleApp1\HomeWork2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+C:\CoursesProjects\ConsoleApp1\HomeWork2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+C:\CoursesProjects\ConsoleApp1\HomeWork2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+C:\CoursesProjects\ConsoleApp1\HomeWork2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\CoursesProjects\ConsoleApp1\HomeWork2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CoursesProjects\ConsoleApp1\HomeWork2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\CoursesProjects\ConsoleApp1\HomeWork2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+C:\CoursesProjects\ConsoleApp1\HomeWork2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\CoursesProjects\ConsoleApp1\HomeWork2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+C:\CoursesProjects\ConsoleApp1\HomeWork2\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+C:\CoursesProjects\ConsoleApp1\HomeWork2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+C:\CoursesProjects\ConsoleApp1\HomeWork2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+C:\CoursesProjects\ConsoleApp1\HomeWork2\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
